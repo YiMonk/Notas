@@ -1,6 +1,6 @@
 # Challenge-Gentleman-Programming
 
-Este repositorio se centra en mi aprendizaje sobre desarrollo web con enfoque al backend. La idea es seguir [roadmap.sh](https://roadmap.sh) en relación al backend y crear una carpeta para cada uno de los cuadrados amarillos que representan un punto importante dentro de este camino de aprendizaje. Tambien ir agrregando cositas extras como ejecicios e informacion de otras referencias,
+Este repositorio se centra en mi aprendizaje sobre desarrollo web con enfoque al backend. La idea es seguir [roadmap.sh](https://roadmap.sh) en relación al backend y crear una carpeta para cada uno de los cuadrados amarillos que representan un punto importante dentro de este camino de aprendizaje. Tambien ir agrregando cositas extras como ejecicios e informacion de otras referencias.
 
 Este proyecto es parte de un reto propuesto por [Gentleman Programing](https://www.youtube.com/@GentlemanProgramming).
 
