@@ -18,7 +18,7 @@ Es el alojamiento donde se encuentran los sitios web el cual permite conectarse 
 
 #Que es el DNS y como funciona.
 
-The Domain Name System (DNS) es indice del internet, donde se accede a la informacion a través de los nombres de dominio como lo es "google.com". Los navegadores web interactuan a través de direcciones IP y el DNS traduce los nombre de dominio a direcciones IP para que los navegadores.
+The Domain Name System (DNS) es indice del internet, donde el titulo es el nombre del dominio y el numero de pagina es la direccion IP. Aquí se accede a la informacion a través de los nombres de dominio como lo es "google.com". Los navegadores web interactuan a través de direcciones IP y el DNS traduce los nombre de dominio a direcciones IP para que los navegadores.
 
 
 #Que son los navegadores y como funcionan.
