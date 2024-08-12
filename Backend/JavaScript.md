@@ -13,7 +13,7 @@ Es una de las tecnologias centrales de la World Wide Web, junto con HTML y CSS. 
    
    ![Problemas Var](.././imgs/ProblemasVar.png)
    
-            Actualmente con ES6 let y const, que se pueden utilizar para la declaración de variables.
+    Actualmente con ES6 let y const, que se pueden utilizar para la declaración de variables.
    
    - **Let**: let es ahora preferible para la declaración de variables. Tiene un ámbito de bloque, este es un trozo de código delimitado por {}. Un bloque vive entre llaves. Todo lo que está dentro de llaves es un bloque.
 
